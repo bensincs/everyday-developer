@@ -1,17 +1,3 @@
-/**
-PREREQUISITS:
-https://github.com/tonsky/FiraCode
-
-EXTENSIONS:
-pkief.material-icon-theme
-github.github-vscode-theme
-dbaeumer.vscode-eslint
-ms-vsliveshare.vsliveshare
-golang.go
-hashicorp.terraform
-
-
-**/
 {
   // Window
   "window.zoomLevel": 1,

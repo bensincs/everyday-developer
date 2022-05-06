@@ -1,8 +1,7 @@
 ## These are just my settings and extensions for VS code.
 
-To use them:
-
 - Install this extension package: https://marketplace.visualstudio.com/items?itemName=bensincs.mypack
+- Get the font i use: https://github.com/tonsky/FiraCode
 - Run this script to get my settings
 
 ```
