@@ -1,10 +1,10 @@
-## These are just my settings and extensions for VS code.
+# Everyday Developer
 
-- Install this extension package: https://marketplace.visualstudio.com/items?itemName=bensincs.mypack
-- Get the font i use: https://github.com/tonsky/FiraCode
-- Run this script to get my settings
+- Install the everyday developer extension package to make: https://marketplace.visualstudio.com/items?itemName=bensincs.mypack
+- Install the required fonts: https://github.com/tonsky/FiraCode
+- Run this script to get the everyday developer fonts
 
 ```
 cp ~/Library/Application\ Support/Code/User/Settings.json ~/Library/Application\ Support/Code/User/Settings.json.backup
-curl https://raw.githubusercontent.com/bensincs/vscode-config/main/settings/settings.json > ~/Library/Application\ Support/Code/User/Settings.json
+curl https://raw.githubusercontent.com/bensincs/everyday-developer/main/settings/settings.json > ~/Library/Application\ Support/Code/User/Settings.json
 ```
