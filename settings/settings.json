@@ -42,5 +42,8 @@
   //Workbench
   "workbench.activityBar.visible": true,
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "GitHub Dark Default"
+  "workbench.colorTheme": "GitHub Dark Default",
+
+  //Todo Tree
+  "todo-tree.general.tags": ["BUG", "HACK", "FIXME", "TODO", "XXX"]
 }
