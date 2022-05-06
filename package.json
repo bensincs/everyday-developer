@@ -3,13 +3,21 @@
   "displayName": "Everyday Developer",
   "publisher": "bensincs",
   "description": "",
-  "version": "0.0.2",
+  "version": "0.0.1",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^0.10.5"
   },
   "categories": [
     "Extension Packs"
   ],
+  "repository": {
+    "url": "https://github.com/bensincs/everyday-developer"
+  },
+  "homepage": "https://github.com/bensincs/everyday-developer",
+  "bugs": {
+    "url": "https://github.com/bensincs/everyday-developer/issues"
+  },
   "extensionPack": [
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
