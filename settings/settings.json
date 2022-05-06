@@ -45,5 +45,7 @@
   "workbench.colorTheme": "GitHub Dark Default",
 
   //Todo Tree
-  "todo-tree.general.tags": ["BUG", "HACK", "FIXME", "TODO", "XXX"]
+  "todo-tree.general.tags": ["BUG", "HACK", "FIXME", "TODO", "XXX"],
+  "editor.inlineSuggest.enabled": true,
+  "todo-tree.highlights.useColourScheme": true
 }
