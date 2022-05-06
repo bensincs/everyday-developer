@@ -2,6 +2,10 @@
 
 To use them:
 
-- Clone this repo
-- run `code --install-extension ./extensions/mypack-<version>.visx` to get my settings file
-- run `./settings/syncDown.sh` to get my settings file
+- Install this extension package: https://marketplace.visualstudio.com/items?itemName=bensincs.mypack
+- Run this script to get my settings
+
+```
+cp ~/Library/Application\ Support/Code/User/Settings.json ~/Library/Application\ Support/Code/User/Settings.json.backup
+curl https://raw.githubusercontent.com/bensincs/vscode-config/main/settings/settings.json > ~/Library/Application\ Support/Code/User/Settings.json
+```
