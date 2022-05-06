@@ -1,0 +1,30 @@
+{
+  "name": "mypack",
+  "displayName": "mypack",
+  "publisher": "bensincs",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.67.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "GitHub.copilot",
+    "GitHub.github-vscode-theme",
+    "golang.go",
+    "GraphQL.vscode-graphql",
+    "Gruntfuggly.todo-tree",
+    "hashicorp.terraform",
+    "ms-azuretools.vscode-azureterraform",
+    "ms-azuretools.vscode-docker",
+    "ms-vscode-remote.remote-containers",
+    "ms-vscode.azure-account",
+    "ms-vsliveshare.vsliveshare",
+    "PKief.material-icon-theme",
+    "streetsidesoftware.code-spell-checker"
+  ]
+}
