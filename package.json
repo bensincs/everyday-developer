@@ -34,6 +34,7 @@
     "ms-vsliveshare.vsliveshare",
     "PKief.material-icon-theme",
     "streetsidesoftware.code-spell-checker",
-    "eamodio.gitlens"
+    "eamodio.gitlens",
+    "hediet.vscode-drawio"
   ]
 }
